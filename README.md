@@ -1,7 +1,7 @@
 # Pandas-Project
 # My First Pandas Data Cleaning Project! 🐼✨
 
-Hey there! Welcome to my first data cleaning project using Python's pandas library. I'm still learning the ropes, but I'm excited to share my progress!
+Hey there! Welcome to my first data cleaning project using Python's pandas library. I am still learning the ropes, but I am excited to share my progress.
 
 ## 🎯 What's This Project About?
 This was my hands-on practice session to clean a dataset. I took a raw, messy CSV file and worked through the pandas basics to make it tidy and analysis-ready!
